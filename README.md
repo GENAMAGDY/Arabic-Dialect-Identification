@@ -8,7 +8,7 @@ Many countries speak Arabic with different dialect and the objective to predict 
 
 We have more than 458k tweets for 18 countries with Arabic dialect. 
 
-You can get dataset by calling this API [https://recruitment.aimtechnologies.co/ai-tasks].
+You can get on dataset by calling this API [https://recruitment.aimtechnologies.co/ai-tasks].
 
 **Sample from dataset :**
 
@@ -18,11 +18,25 @@ You can get dataset by calling this API [https://recruitment.aimtechnologies.co/
            } 
 
 # Pipeline
-You can see the steps and run from 
+You can see the steps and run the code from 
 
-   - scripts/Arabic_Dialect_Identification_without_AraBERT.ipynb
-   - scripts/Arabic_Dialect_Identification_with_AraBERT.ipynb
+   - script/Arabic_Dialect_Identification_without_AraBERT.ipynb
+   - script/Arabic_Dialect_Identification_with_AraBERT.ipynb
 
 You can know more details and results from files/Arabic Dialect Identification.ppt 
+
+# Deployment
+I deploy a model using Flask framework. 
+
+And, you can see the code from script/Model Deployment with Flask
+
+Also, you can see the video from files/Deployment.mp4
+
+# Tools
+Python 3.7
+
+Jupyter-lab  or Google Colab
+
+Flask Framework
 
 
