@@ -17,7 +17,7 @@ You can get dataset by calling this API [https://recruitment.aimtechnologies.co/
            "1057418989293485952": "@mycousinvinnyys @hanyamikhail1  متهيالي دي شكولاته الهالوين  فين المحل ده" 
            } 
 
-#Pipeline
+# Pipeline
 You can see the steps and run from 
 
    - scripts/Arabic_Dialect_Identification_without_AraBERT.ipynb
